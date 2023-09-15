@@ -1,7 +1,6 @@
 # Code_Editior_Application
 
 
-
 # Code Editor and Quality Checker
 
 ![Code Editor](https://img.shields.io/badge/Application-Code%20Editor-brightgreen)
@@ -15,11 +14,17 @@ Welcome to the Code Editor and Quality Checker application. This versatile tool 
 
 ## Features
 
+### Interface
+
+![interface](https://github.com/Tathagat017/Code_Editior_Application/assets/114250830/82fa984e-973c-4467-abdc-da6be0f6682b)
+
 ### Code Execution
 
 - **Multi-Language Support**: Write, edit, and execute code in Python, JavaScript, C++, Java, and C within a single application.
 
 - **Real-time Output**: Get immediate feedback with the terminal (console) output displayed alongside your code.
+
+![execute](https://github.com/Tathagat017/Code_Editior_Application/assets/114250830/6bf294d5-b288-4b76-a440-233c057ae02e)
 
 ### Code Quality Analysis
 
@@ -27,9 +32,13 @@ Welcome to the Code Editor and Quality Checker application. This versatile tool 
 
 - **Actionable Feedback**: Get detailed feedback with actionable points to improve your code quality.
 
+![codeQuality](https://github.com/Tathagat017/Code_Editior_Application/assets/114250830/da99a123-01c5-41f5-9f81-dc9329b43bca)
+
 ### Code Transpilation
 
 - **Language Conversion**: Transpile code from one supported language to another. Easily convert Python to JavaScript, C++ to Java, and more.
+![transpile](https://github.com/Tathagat017/Code_Editior_Application/assets/114250830/81744f11-d159-41cc-909c-5270d2a7d99e)
+
 
 ## Getting Started
 
